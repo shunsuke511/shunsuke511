@@ -596,11 +596,7 @@ news
 .news__item:first-child {
   border-top: solid 1px #CECDCD;
 }
-@media screen and (max-width: 960px) {
-  .news__item {
-    padding: 11px 0;
-  }
-}
+
 .news__item::after {
   position: absolute;
   top: 50%;
