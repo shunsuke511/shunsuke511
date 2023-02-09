@@ -48,9 +48,9 @@ $(function () {
   //100pxスクロールで表示
   $(window).on("scroll", function () {
     if ($(this).scrollTop() > 100) {
-      $('.pageTop').fadeIn();
+      $('.totop').fadeIn();
     } else {
-      $('.pageTop').fadeOut();
+      $('.totop').fadeOut();
     }
   });
   //トップへのスクロールはページ内リンクへのスクロールで実施
