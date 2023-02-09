@@ -2094,6 +2094,7 @@ footer {
 totop
 ============================================================= */
 .totop {
+  display: none;
   position: fixed;
   bottom: 45px;
   right: 40px;
