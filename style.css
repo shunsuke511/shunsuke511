@@ -1676,6 +1676,7 @@ contact
 @media screen and (max-width: 520px) {
   .form__select {
     width: 100%;
+    background: url(https://shunsuke511.github.io/select-arrow.png) no-repeat right 12px center/10px;
   }
 }
 .form__select:hover {
