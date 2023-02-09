@@ -618,7 +618,7 @@ news
 @media screen and (max-width: 520px) {
   .news__link {
     display: block;
-    padding: 0 16px;
+    padding: 11px 16px;
   }
 }
 .news__link:hover {
